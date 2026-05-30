@@ -1,0 +1,39 @@
+
+Welch Two-Sample T-Test Interpretation
+
+Research question:
+Is the mean height different between male and female students?
+
+The cleaned dataset includes 6490 female students and 6572 male students.
+
+Female mean height: 162.99 cm
+Male mean height: 175.74 cm
+
+The estimated mean difference, Male - Female, is 12.75 cm.
+The 95% confidence interval for the difference is from 12.47 cm to 13.02 cm.
+
+Welch two-sample t-test result:
+t = 92.3129
+df = 12892.3537
+p-value = 0.000000
+
+At alpha = 0.05, we reject the null hypothesis.
+Therefore, there is a statistically significant difference in mean height between male and female students.
+
+中文解釋：
+
+本研究使用 Welch two-sample t-test 檢定男性與女性學生的平均身高是否不同。
+
+資料中女性學生共有 6490 人，男性學生共有 6572 人。
+女性學生的平均身高為 162.99 公分，男性學生的平均身高為 175.74 公分。
+
+男性與女性的平均身高差異為 12.75 公分。
+95% 信賴區間為 12.47 公分到 13.02 公分。
+
+檢定結果顯示：
+t = 92.3129
+df = 12892.3537
+p-value = 0.000000
+
+在 α = 0.05 的顯著水準下，我們拒絕虛無假設。
+因此，男性與女性學生的平均身高存在統計上顯著差異。

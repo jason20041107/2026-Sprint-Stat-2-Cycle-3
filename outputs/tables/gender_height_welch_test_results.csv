@@ -1,0 +1,2 @@
+﻿Method,Mean_Difference_Male_minus_Female_m,Mean_Difference_Male_minus_Female_cm,t_statistic,df,p_value,CI_95_Lower_m,CI_95_Upper_m,CI_95_Lower_cm,CI_95_Upper_cm,Alpha
+Welch two-sample t-test,0.127454,12.745395,92.312864,12892.353676,0.0,0.124748,0.13016,12.474762,13.016027,0.05
