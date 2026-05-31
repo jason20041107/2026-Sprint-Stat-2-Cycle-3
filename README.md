@@ -1,12 +1,12 @@
 # 2026-Sprint-Stat-2-Cycle-3
 
-Group 11
+Group 5
 
 # Project Cycle 3
 
 ## Group Information
 
-- Group number: 11
+- Group number: 5
 - Members: 113370213柯欣妤、112370128陳冠維
 
 ## Dataset
