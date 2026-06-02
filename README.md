@@ -102,6 +102,11 @@ Because GitHub may not display `.ipynb` files correctly, the notebook files were
 - `outputs/figures/gender_height_ci_plot.png`
 - `outputs/figures/gender_height_t_distribution_curve.png`
 - `outputs/summary/gender_height_welch_interpretation.txt`
+## Video Link
+
+The project video can be viewed here:
+
+- [VIDEO LINK](https://drive.google.com/file/d/1G1JYuanSe1tZAMdzVaRPvYHqGxA3L7T7/view?usp=sharing)
 
 ## Main Result
 
